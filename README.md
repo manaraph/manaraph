@@ -51,9 +51,9 @@ My name is [Manasseh](https://twitter.com/manaraph), i am a graduate of computer
   <a href="">
       <img src="https://raw.githubusercontent.com/manaraph/manaraph/2c86c1c993c9a57e9fc61de516ed954aa13bd905/assets/visualstudio_code.svg" alt="VScode" style="vertical-align:top; margin:4px">
   </a> 
-  <a href="">
+  <!-- <a href="">
       <img src="https://raw.githubusercontent.com/manaraph/manaraph/2c86c1c993c9a57e9fc61de516ed954aa13bd905/assets/xcode.svg" alt="Xcode" style="vertical-align:top; margin:4px">
-  </a> 
+  </a>  -->
   <a href="">
       <img src="https://raw.githubusercontent.com/manaraph/manaraph/2c86c1c993c9a57e9fc61de516ed954aa13bd905/assets/digitalocean.svg" alt="Digital ocean" style="vertical-align:top; margin:4px">
   </a>   
