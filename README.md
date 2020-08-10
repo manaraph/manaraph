@@ -10,10 +10,9 @@ My name is [Manasseh](https://twitter.com/manaraph225), i am a graduate of compu
 - 💬 Ask me about Software Development, Software Testing, CI/CD, Code Migration, Data Structures, Web Charts and Dashboards, eLearning applications.
 - 📫 How to reach me: manaraph225@gmail.com
 
-<!-- ---
 ### 🌱 I’m currently learning
-
--->
+- Ruby
+- Ruby on Rails
 
 ---
 
