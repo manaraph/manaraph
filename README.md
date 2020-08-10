@@ -11,12 +11,14 @@ My name is [Manasseh](https://twitter.com/manaraph225), i am a graduate of compu
 - 📫 How to reach me: manaraph225@gmail.com
 
 ---
+<!--
 
 ### 🌱 I’m currently learning
 - Ruby
 - Ruby on Rails
 
 ---
+-->
 
 ### Languages and Tools
 
