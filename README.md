@@ -6,7 +6,7 @@
 
 My name is [Manasseh](https://twitter.com/manaraph225), i am a graduate of computer engineering. i've been passionate about programming since 2012, i have worked on a couple hardware and software projects (mainly software projects now).
 
-- 🔭 I’m currently working on some freelance projects.
+- 🔭 I’m currently working with 3GIS.
 - 💬 Ask me about Software Development, Software Testing, CI/CD, Code Migration, Data Structures, Web Charts and Dashboards, eLearning applications.
 - 📫 How to reach me: manaraph225@gmail.com
 
