@@ -3,8 +3,9 @@
 ---
 
 ### About Me
+My name is Manasseh, i am a graduate of computer engineering. i've been passionate about programming since 2012, i have worked on a couple hardware and software projects (mainly software projects now).
 
-My name is [Manasseh](https://twitter.com/manaraph225), i am a graduate of computer engineering. i've been passionate about programming since 2012, i have worked on a couple hardware and software projects (mainly software projects now).
+<!-- -My name is [Manasseh](https://twitter.com/manaraph225), i am a graduate of computer engineering. i've been passionate about programming since 2012, i have worked on a couple hardware and software projects (mainly software projects now).  -->
 
 <!-- - 🔭 I’m currently working with Tunga. -->
 - 💬 Ask me about Software Development, Software Testing, CI/CD, Code Migration, Data Structures, Web Charts and Dashboards, eLearning applications.
