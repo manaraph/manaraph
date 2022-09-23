@@ -22,8 +22,9 @@ My name is Manasseh, i am a graduate of computer engineering. i've been passiona
 -->
 <!--
 ### Languages and Tools
-
+-->
 <!-- For more icons please follow  https://github.com/manaraph/ColoredBadges -->
+<!--
 <p>
  <a href="">
       <img src="https://raw.githubusercontent.com/manaraph/manaraph/340ad1ffc46482fb156465ab04961d23c36c8f0c/assets/js.svg" alt="Js" style="vertical-align:top; margin:4px">
@@ -55,9 +56,6 @@ My name is Manasseh, i am a graduate of computer engineering. i've been passiona
   <a href="">
       <img src="https://raw.githubusercontent.com/manaraph/manaraph/2c86c1c993c9a57e9fc61de516ed954aa13bd905/assets/visualstudio_code.svg" alt="VScode" style="vertical-align:top; margin:4px">
   </a> 
-  <!-- <a href="">
-      <img src="https://raw.githubusercontent.com/manaraph/manaraph/2c86c1c993c9a57e9fc61de516ed954aa13bd905/assets/xcode.svg" alt="Xcode" style="vertical-align:top; margin:4px">
-  </a>  -->
   <a href="">
       <img src="https://raw.githubusercontent.com/manaraph/manaraph/2c86c1c993c9a57e9fc61de516ed954aa13bd905/assets/digitalocean.svg" alt="Digital ocean" style="vertical-align:top; margin:4px">
   </a>   
@@ -67,9 +65,6 @@ My name is Manasseh, i am a graduate of computer engineering. i've been passiona
   <a href="">
       <img src="https://raw.githubusercontent.com/manaraph/manaraph/2c86c1c993c9a57e9fc61de516ed954aa13bd905/assets/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
   </a> 
-  <!-- <a href="">
-      <img src="https://raw.githubusercontent.com/manaraph/manaraph/2c86c1c993c9a57e9fc61de516ed954aa13bd905/assets/xcode.svg" alt="Xcode" style="vertical-align:top; margin:4px">
-  </a>   -->
   <a href="">
       <img src="https://raw.githubusercontent.com/manaraph/manaraph/2c86c1c993c9a57e9fc61de516ed954aa13bd905/assets/raspberrypi.svg" alt="Raspberry pi" style="vertical-align:top; margin:4px">
   </a>  
