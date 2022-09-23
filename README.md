@@ -20,7 +20,7 @@ My name is Manasseh, i am a graduate of computer engineering. i've been passiona
 
 ---
 -->
-
+<!--
 ### Languages and Tools
 
 <!-- For more icons please follow  https://github.com/manaraph/ColoredBadges -->
@@ -74,7 +74,7 @@ My name is Manasseh, i am a graduate of computer engineering. i've been passiona
       <img src="https://raw.githubusercontent.com/manaraph/manaraph/2c86c1c993c9a57e9fc61de516ed954aa13bd905/assets/raspberrypi.svg" alt="Raspberry pi" style="vertical-align:top; margin:4px">
   </a>  
 </p>
-
+-->
 <!--
 **manaraph/manaraph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
