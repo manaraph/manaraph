@@ -18,6 +18,8 @@ My name is Manasseh, i am a graduate of computer engineering. i've been passiona
 - Golang
 
 ---
+-->
+
 
 ### My Tech stack
 * Backend: `Typescript` - `Node.js` - `GraphQL` - `Golang`
@@ -25,8 +27,8 @@ My name is Manasseh, i am a graduate of computer engineering. i've been passiona
 * Cloud: `AWS` - `GCP` -  `Digital Ocean` -  `CloudCone`
 * CI/CD: `GitHub Actions` - `GitLab CI` - `Travis CI`
 * Others: `Docker` - `MongoDB` - `MySQL` - `Postgres`
-
--->
+  
+---
 <!--
 ![manaraph's GitHub stats](https://github-readme-stats.vercel.app/api?username=manaraph&show_icons=true&theme=dark&count_private=true)
 
