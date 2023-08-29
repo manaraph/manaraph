@@ -19,10 +19,10 @@ My name is Manasseh, i am a graduate of computer engineering. i've been passiona
 
 ---
 -->
-
+<!--
 ![manaraph's GitHub stats](https://github-readme-stats.vercel.app/api?username=manaraph&show_icons=true&theme=dark&count_private=true)
-
-![Top Languages I use](https://github-readme-stats.vercel.app/api/top-langs/?username=manaraph&theme=dark&langs_count=3)
+-->
+![Top Languages I use](https://github-readme-stats.vercel.app/api/top-langs/?username=manaraph&theme=dark&langs_count=5)
 
 <!--
 ### Languages and Tools
