@@ -26,7 +26,7 @@ My name is Manasseh, i am a graduate of computer engineering. i've been passiona
 * Frontend: `Angular` - `React`- `Vue`
 * Cloud: `AWS` - `GCP` -  `Digital Ocean` -  `CloudCone`
 * CI/CD: `GitHub Actions` - `GitLab CI` - `Travis CI`
-* Others: `Docker` - `MongoDB` - `MySQL` - `Postgres`
+* Others: `Docker` - `MongoDB` - `MySQL` - `Postgres` - `Redis`
   
 ---
 <!--
