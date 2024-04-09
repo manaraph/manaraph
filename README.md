@@ -3,7 +3,7 @@
 ---
 
 ### About Me
-My name is Manasseh, i am a graduate of computer engineering. i've been passionate about programming since 2012, i have worked on a couple hardware and software projects (mainly software projects now).
+My name is [Manasseh](https://www.linkedin.com/in/manasseh-omachonu/), i am a graduate of computer engineering. i've been passionate about programming since 2012, i have worked on a couple of hardware and software projects (mainly focused on software projects now).
 
 <!-- -My name is [Manasseh](https://twitter.com/manaraph225), i am a graduate of computer engineering. i've been passionate about programming since 2012, i have worked on a couple hardware and software projects (mainly software projects now).  -->
 
