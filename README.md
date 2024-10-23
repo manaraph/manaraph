@@ -24,7 +24,7 @@ My name is [Manasseh](https://www.linkedin.com/in/manasseh-omachonu/), i am a gr
 ### My Tech stack
 * Backend: `Typescript` - `Node.js` - `Golang`
 * Frontend: `Angular` - `React`- `Vue`
-* Cloud: `AWS` - `GCP` -  `Digital Ocean` -  `CloudCone`
+* Cloud: `AWS` - `GCP` -  `Digital Ocean`
 * CI/CD: `GitHub Actions` - `GitLab CI` - `Travis CI`
 * Others: `GraphQL` - `Docker` - `MongoDB` - `MySQL` - `Postgres` - `Redis`
   
