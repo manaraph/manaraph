@@ -7,11 +7,12 @@ My name is [Manasseh](https://www.linkedin.com/in/manasseh-omachonu/), i am a gr
 
 <!-- -My name is [Manasseh](https://twitter.com/manaraph225), i am a graduate of computer engineering. i've been passionate about programming since 2012, i have worked on a couple hardware and software projects (mainly software projects now).  -->
 
-<!-- - 🔭 I’m currently working with Tunga. -->
+<!-- - 🔭 I’m currently working with Tunga. 
 - 💬 Ask me about Software Development, Code Testing, CI/CD, Code Migration & Optimization, Data Structures, Web Charts and Dashboards, eLearning applications.
 - 📫 How to reach me: manaraph225@gmail.com
 
 ---
+-->
 <!--
 
 ### 🌱 I’m currently learning
