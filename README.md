@@ -27,7 +27,7 @@ My name is [Manasseh](https://www.linkedin.com/in/manasseh-omachonu/), i am a gr
 * Frontend: `Angular` - `React`- `Vue`
 * Cloud: `AWS` - `GCP` -  `Digital Ocean`
 * CI/CD: `GitHub Actions` - `GitLab CI` - `Travis CI`
-* Others: `GraphQL` - `Docker` - `MongoDB` - `MySQL` - `Postgres` - `Redis`
+* Others: `Kubernetes` - `Docker` - `MongoDB` - `MySQL` - `Postgres` - `Redis`
   
 ---
 <!--
