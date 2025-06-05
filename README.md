@@ -12,8 +12,6 @@ My name is [Manasseh](https://www.linkedin.com/in/manasseh-omachonu/), i am a gr
 - 📫 How to reach me: manaraph225@gmail.com
 
 ---
--->
-<!--
 
 ### 🌱 I’m currently learning
 - Golang
@@ -21,73 +19,29 @@ My name is [Manasseh](https://www.linkedin.com/in/manasseh-omachonu/), i am a gr
 ---
 -->
 
-
 ### My Tech stack
 * Backend: `Typescript` - `Node.js` - `Golang`
 * Frontend: `Angular` - `React`- `Vue`
 * Cloud: `AWS` - `GCP` -  `Digital Ocean`
 * CI/CD: `GitHub Actions` - `GitLab CI` - `Travis CI`
-* Others: `Kubernetes` - `Docker` - `MongoDB` - `MySQL` - `Postgres` - `Redis`
+* Others: `Kubernetes` - `Docker` - `MongoDB` - `MySQL` - `Postgres` - `Redis` and more...
   
 ---
 <!--
-![manaraph's GitHub stats](https://github-readme-stats.vercel.app/api?username=manaraph&show_icons=true&theme=dark&count_private=true)
+<div align="center" sty>
+    <img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=manaraph&show_icons=true&count_private=true&hide_border=true&theme=nightowl&bg_color=00000000" align="left" />
+    <img src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=manaraph&theme=nightowl&count_private=true&hide_border=true&bg_color=00000000">
+</div>
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=manaraph&theme=nightowl&count_private=true&hide_border=true&background=FFFFFF00">
+</div>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=manaraph&theme=github&count_private=true&hide_border=true&bg_color=00000000"/>
+</div>
 
-![Top Languages I use](https://github-readme-stats.vercel.app/api/top-langs/?username=manaraph&theme=dark&langs_count=5)
+---
 -->
 <!--
-### Languages and Tools
--->
-<!-- For more icons please follow  https://github.com/manaraph/ColoredBadges -->
-<!--
-<p>
- <a href="">
-      <img src="https://raw.githubusercontent.com/manaraph/manaraph/340ad1ffc46482fb156465ab04961d23c36c8f0c/assets/js.svg" alt="Js" style="vertical-align:top; margin:4px">
-  </a> 
-<a href="">
-      <img src="https://raw.githubusercontent.com/manaraph/manaraph/340ad1ffc46482fb156465ab04961d23c36c8f0c/assets/nodejs.svg" alt="Node" style="vertical-align:top; margin:4px">
-  </a> 
-  <a href="">
-      <img src="https://raw.githubusercontent.com/manaraph/manaraph/340ad1ffc46482fb156465ab04961d23c36c8f0c/assets/angular.svg" alt="Angular" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="">
-      <img src="https://raw.githubusercontent.com/manaraph/manaraph/340ad1ffc46482fb156465ab04961d23c36c8f0c/assets/vue.svg" alt="Vue" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="">
-      <img src="https://raw.githubusercontent.com/manaraph/manaraph/340ad1ffc46482fb156465ab04961d23c36c8f0c/assets/react.svg" alt="React" style="vertical-align:top; margin:4px">
-  </a>   
-  <a href="">
-      <img src="https://raw.githubusercontent.com/manaraph/manaraph/340ad1ffc46482fb156465ab04961d23c36c8f0c/assets/php.svg" alt="PHP" style="vertical-align:top; margin:4px">
-  </a>
-   <a href="">
-      <img src="https://raw.githubusercontent.com/manaraph/manaraph/2c86c1c993c9a57e9fc61de516ed954aa13bd905/assets/laravel.svg" alt="Laravel" style="vertical-align:top; margin:4px">
-  </a> 
-  <a href="">
-      <img src="https://raw.githubusercontent.com/manaraph/manaraph/340ad1ffc46482fb156465ab04961d23c36c8f0c/assets/bootstrap.svg" alt="Bootstrap" style="vertical-align:top; margin:4px">
-  </a>  
-  <a href="">
-      <img src="https://raw.githubusercontent.com/manaraph/manaraph/340ad1ffc46482fb156465ab04961d23c36c8f0c/assets/sass.svg" alt="Sass" style="vertical-align:top; margin:4px">
-  </a>  
-  <a href="">
-      <img src="https://raw.githubusercontent.com/manaraph/manaraph/2c86c1c993c9a57e9fc61de516ed954aa13bd905/assets/visualstudio_code.svg" alt="VScode" style="vertical-align:top; margin:4px">
-  </a> 
-  <a href="">
-      <img src="https://raw.githubusercontent.com/manaraph/manaraph/2c86c1c993c9a57e9fc61de516ed954aa13bd905/assets/digitalocean.svg" alt="Digital ocean" style="vertical-align:top; margin:4px">
-  </a>   
-  <a href="">
-      <img src="https://raw.githubusercontent.com/manaraph/manaraph/2c86c1c993c9a57e9fc61de516ed954aa13bd905/assets/gcp.svg" alt="GCP" style="vertical-align:top; margin:4px">
-  </a>  
-  <a href="">
-      <img src="https://raw.githubusercontent.com/manaraph/manaraph/2c86c1c993c9a57e9fc61de516ed954aa13bd905/assets/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
-  </a> 
-  <a href="">
-      <img src="https://raw.githubusercontent.com/manaraph/manaraph/2c86c1c993c9a57e9fc61de516ed954aa13bd905/assets/raspberrypi.svg" alt="Raspberry pi" style="vertical-align:top; margin:4px">
-  </a>  
-</p>
--->
-<!--
-**manaraph/manaraph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ...
